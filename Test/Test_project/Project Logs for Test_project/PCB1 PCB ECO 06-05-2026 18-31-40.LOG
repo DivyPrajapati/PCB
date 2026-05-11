@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetLED?_1 Pin=R3-1
+Removed Pin From Net: NetName=NetIC1_3 Pin=R3-2
+Change Component Footprint: Designator=R3 Old Footprint=RESAD1590W60L630D240 New Footprint=RESAD2100W80L900D300
+Change Component Comment : Designator=R3 Old Comment=FMP100JT-52-1K New Comment=MOS1CT528A103J
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESAD1590W60L630D240"; UniqueID = "\DBBUOUBJ" ("\DBBUOUBJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/MOS1CT528A103J.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOS1CT528A103J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "660-MOS1CT528A103J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KOA-Speer/MOS1CT528A103J?qs=lc2O%252BfHJPVanf9VOC6Ilbg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_3 Pin=R3-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R3-2

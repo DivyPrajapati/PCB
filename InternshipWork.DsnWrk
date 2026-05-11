@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Test_project\Test_project.PrjPcb
+[Project2]
+ProjectPath=..\..\AltiumWork\AltiumLL\AltiumLL.PrjScr
+[Project3]
+ProjectPath=Library\Test_Library.LibPkg
+[Project4]
+ProjectPath=..\ST25DV\ST25DV.PrjPcb

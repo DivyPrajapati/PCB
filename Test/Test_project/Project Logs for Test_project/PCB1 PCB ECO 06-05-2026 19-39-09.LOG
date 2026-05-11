@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=TRIG Pin=P3-4
+Change Net Name : Old Net Name=TRIG New Net Name=Siw

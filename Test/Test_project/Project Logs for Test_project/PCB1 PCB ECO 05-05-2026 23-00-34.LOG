@@ -1,0 +1,8 @@
+Added Net: Name=+5V
+Added Net: Name=GND
+Added Net: Name=Net555_2
+Added Net: Name=Net555_3
+Added Net: Name=NetLED_1
+Added Class: Name=Test_project
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

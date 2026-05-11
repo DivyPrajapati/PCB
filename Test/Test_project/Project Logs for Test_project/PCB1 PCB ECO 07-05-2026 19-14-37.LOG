@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=VCC Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Member From Class: ClassName=Test_project Member=P3
+Added Component: Designator=BJT1(2N2222A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2n2222a/diotec-semiconductor-ag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://diotec.com/request/datasheet/2n2222a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "637-2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diotec-Semiconductor/2N2222A?qs=OlC7AqGiEDmNlRSTGL2dYg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheets.kyocera-avx.com/AutoMLCCKAM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KAM15AG81H100JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR2X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(APC817C1SL)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.americanbrightled.com/pdffiles/ir-uv/ir/APC-817.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "American Bright LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APC-817C1-SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "442-APC817C1SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/American-Bright-LED/APC-817C1-SL?qs=Y0Uzf4wQF3lGQlk7OLeIsw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESAD2100W80L900D300)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/MOS1CT528A103J.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOS1CT528A103J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "660-MOS1CT528A103J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KOA-Speer/MOS1CT528A103J?qs=lc2O%252BfHJPVanf9VOC6Ilbg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESAD2100W80L900D300)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/MOS1CT528A103J.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOS1CT528A103J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "660-MOS1CT528A103J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KOA-Speer/MOS1CT528A103J?qs=lc2O%252BfHJPVanf9VOC6Ilbg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESAD2100W80L900D300)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/MOS1CT528A103J.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOS1CT528A103J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "660-MOS1CT528A103J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KOA-Speer/MOS1CT528A103J?qs=lc2O%252BfHJPVanf9VOC6Ilbg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESAD2100W80L900D300)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/MOS1CT528A103J.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOS1CT528A103J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "660-MOS1CT528A103J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KOA-Speer/MOS1CT528A103J?qs=lc2O%252BfHJPVanf9VOC6Ilbg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BJT1-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Change Net Name : Old Net Name=VCC New Net Name=+
+Added Pin To Net: NetName=- Pin=BJT1-3
+Added Pin To Net: NetName=- Pin=C1-2
+Added Pin To Net: NetName=- Pin=IC1-1
+Added Pin To Net: NetName=- Pin=P2-1
+Added Pin To Net: NetName=- Pin=Q1-2
+Added Net: Name=-
+Added Pin To Net: NetName=CLK_O/P Pin=IC1-3
+Added Pin To Net: NetName=CLK_O/P Pin=R3-1
+Added Pin To Net: NetName=CLK_O/P Pin=R4-1
+Added Net: Name=CLK_O/P
+Added Pin To Net: NetName=NetBJT1_2 Pin=BJT1-2
+Added Pin To Net: NetName=NetBJT1_2 Pin=P1-3
+Added Pin To Net: NetName=NetBJT1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetBJT1_2 Pin=R7-2
+Added Net: Name=NetBJT1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=P1-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=P1-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R5-1
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=Operation Pin=IC1-2
+Added Pin To Net: NetName=Operation Pin=P1-1
+Added Pin To Net: NetName=Operation Pin=R1-1
+Added Pin To Net: NetName=Operation Pin=R6-2
+Added Net: Name=Operation
+Added Member To Class: ClassName=Test_project Member=Component BJT1 2N2222A
+Added Member To Class: ClassName=Test_project Member=Component C2 KAM15AG81H100JT
+Added Member To Class: ClassName=Test_project Member=Component P1 Header 2X2
+Added Member To Class: ClassName=Test_project Member=Component Q1 APC-817C1-SL
+Added Member To Class: ClassName=Test_project Member=Component R4 MOS1CT528A103J
+Added Member To Class: ClassName=Test_project Member=Component R5 MOS1CT528A103J
+Added Member To Class: ClassName=Test_project Member=Component R6 MOS1CT528A103J
+Added Member To Class: ClassName=Test_project Member=Component R7 MOS1CT528A103J

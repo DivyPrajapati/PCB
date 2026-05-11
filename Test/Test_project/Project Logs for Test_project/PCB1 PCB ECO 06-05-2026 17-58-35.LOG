@@ -1,0 +1,62 @@
+Added Component: Designator=C?(CAPPRD500W60D1050H2200)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/28402/142rhs.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "22mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAL214236102E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-MAL214236102E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL214236102E3?qs=Ep9Lwju7gVqCnoasHklGbw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESAD1590W60L630D240)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fmp-100jt-52-1k/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/FMP100JT-52-1K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/FMP100JT-52-1K?qs=gt1LBUVyoHnryrTyh1JL7w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESAD1590W60L630D240)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fmp-100jt-52-1k/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/FMP100JT-52-1K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/FMP100JT-52-1K?qs=gt1LBUVyoHnryrTyh1JL7w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESAD1590W60L630D240)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fmp-100jt-52-1k/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/FMP100JT-52-1K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-FMP100JT-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/FMP100JT-52-1K?qs=gt1LBUVyoHnryrTyh1JL7w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S?(FSM2J_1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "FSM2JSMAATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fsm2jsmaatr/te-connectivity.html?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1654270-2&DocType=Catalog%20Section&DocLang=English&PartCntxt=2-1437565-9&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FSM2JSMAATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "506-FSM2JSMAATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/FSM2JSMAATR?qs=g%252BEszo6zu8MKdISiZRITCQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin LED-1
+Add Pin To Net: Unknown Pin: Pin LED-2
+Added Pin To Net: NetName=TRIG Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetLED_2 Pin=R3-1
+Added Pin To Net: NetName=NetIC1_3 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=TRIG Pin=S?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=IC1-6
+Added Pin To Net: NetName=NetC?_1 Pin=IC1-7
+Added Pin To Net: NetName=NetC?_1 Pin=R2-1
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=Test_project Member=Component C? MAL214236102E3
+Add Class Member: Failed to add class member : Component LED Light-Emitting Diode
+Added Member To Class: ClassName=Test_project Member=Component R1 FMP100JT-52-1K
+Added Member To Class: ClassName=Test_project Member=Component R2 FMP100JT-52-1K
+Added Member To Class: ClassName=Test_project Member=Component R3 FMP100JT-52-1K
+Added Member To Class: ClassName=Test_project Member=Component S? FSM2JSMAATR

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VCC Pin=P2-2
+Change Net Name : Old Net Name=VCC New Net Name=LED-
+Added Pin To Net: NetName=LED+ Pin=LED?-1
+Added Pin To Net: NetName=LED+ Pin=P2-1
+Added Pin To Net: NetName=LED+ Pin=R3-2
+Added Net: Name=LED+
